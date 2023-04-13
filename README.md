@@ -1,4 +1,4 @@
-# 💫 About Me: Nimish Sarathe
+# 💫 Nimish Sarathe
 Nimish Sarathe
 
 
