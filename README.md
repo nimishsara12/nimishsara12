@@ -18,4 +18,4 @@ Nimish Sarathe
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Spsden)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Spsden)](https://git.io/streak-stats) -->
