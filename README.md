@@ -13,6 +13,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nimishsara12&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nimishsara12&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nimishsara12)](https://git.io/streak-stats)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nimishsara12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
