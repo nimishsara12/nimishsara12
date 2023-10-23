@@ -1,6 +1,6 @@
 #  About Me:
 
-# 💫 NIMISH SARATHE <br> Aspiring Software Developer with expertise in Web Development, Data Structure and Algorithm & Cloud Deployment. Pursuing my BTech, also have a strong academic background in Computer Science and Engineering (CSE). <br>Detail-oriented, responsible, and have a proven track record of delivering high-quality software products on time. Passionate about solving complex problems and collaborating with cross-functional teams to develop innovative solutions .<br>
+# 💫 NIMISH SARATHE <br><p> Aspiring Software Developer with expertise in Web Development, Data Structure and Algorithm & Cloud Deployment. Pursuing my BTech, also have a strong academic background in Computer Science and Engineering (CSE). <br>Detail-oriented, responsible, and have a proven track record of delivering high-quality software products on time. Passionate about solving complex problems and collaborating with cross-functional teams to develop innovative solutions .,<p/><br>
 
 
 ## 🌐 Socials:
